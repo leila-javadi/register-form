@@ -1,0 +1,16 @@
+.slid{
+    width:100%;
+    height: auto;
+}
+.slid h2 div{
+    margin: 100px;
+}
+h2{
+    margin: 0 100px;
+    color: #636e72;
+}
+.slid div{
+    font-family: Impact;
+    color: #636e72;
+    font-size: 120px;
+}

@@ -1,0 +1,25 @@
+ .menu ul li{
+    display: inline;
+    margin-left: 25px;
+
+ }
+.menu ul li a{
+    font-size: 18px;
+    font-weight: 600;
+    color: #636e72;
+    font-family: calibril_1;
+}
+.menu ul li a:hover{
+    border-bottom: 1.5px solid #fab1a0;
+}
+.menu{
+    margin-top: 22px;
+}
+.btn-info{
+border: 1px solid #636e72;
+    color: #636e72;
+    font-size: 18px;
+    font-weight: bold;
+    font-family: calibril_1;
+    padding: 11px 31px;
+}

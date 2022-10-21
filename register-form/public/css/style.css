@@ -1,0 +1,19 @@
+table {
+    border-collapse: collapse;
+}
+table, th, td {
+    border: 1px solid black;
+}
+label{
+    font-weight: bold;
+}
+.star{
+    color: red;
+}
+.td{
+    text-align: center;
+}
+.errorMessage{
+    color: red;
+    font-size: 10pt;
+}

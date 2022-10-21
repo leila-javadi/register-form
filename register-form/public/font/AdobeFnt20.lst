@@ -1,0 +1,128 @@
+%!Adobe-FontList 1.20
+%Locale:0x429
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:AdobeArabic-Regular
+FamilyName:Adobe Arabic
+StyleName:Regular
+FullName:Adobe Arabic Regular
+MenuName:Adobe Arabic
+StyleBits:0
+FamilyNameNative:Adobe Arabic
+StyleNameNative:Regular
+FullNameNative:Adobe Arabic Regular
+WritingScript:Arabic
+OutlineFileName:Z:\GRAPHIC\RasaaWebsite 2020-Home Folder\Document fonts\AdobeArabic-Regular.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:299680
+FileModTime:1566845106
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,18,Adobe Arabic
+NameArray:0,Mac,4,Adobe Arabic Regular
+NameArray:0,Win,1,Adobe Arabic
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:ApercuArabicPro-Regular
+FamilyName:Apercu Arabic Pro
+StyleName:Regular
+FullName:Apercu Arabic Pro Regular
+MenuName:Apercu Arabic Pro
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:Z:\GRAPHIC\RasaaWebsite 2020-Home Folder\Document fonts\ApercuArabicPro-Regular.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:245604
+FileModTime:1539611196
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Apercu Arabic Pro Regular
+NameArray:0,Win,1,Apercu Arabic Pro
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Calibri-Italic
+FamilyName:Calibri
+StyleName:Italic
+FullName:Calibri Italic
+MenuName:Calibri
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:Z:\GRAPHIC\RasaaWebsite 2020-Home Folder\Document fonts\calibrii_1.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:1196672
+FileModTime:1552967049
+WeightClass:400
+WidthClass:5
+AngleClass:1
+NameArray:0,Mac,4,Calibri Italic
+NameArray:0,Win,1,Calibri
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Calibri-Light
+FamilyName:Calibri
+StyleName:Light
+FullName:Calibri Light
+MenuName:Calibri Light
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:Z:\GRAPHIC\RasaaWebsite 2020-Home Folder\Document fonts\calibril_1.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:1438808
+FileModTime:1552967049
+WeightClass:300
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,18,Calibri Light
+NameArray:0,Mac,4,Calibri Light
+NameArray:0,Win,1,Calibri Light
+NameArray:0,Win,16,Calibri
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Impact
+FamilyName:Impact
+StyleName:Regular
+FullName:Impact
+MenuName:Impact
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:Z:\GRAPHIC\RasaaWebsite 2020-Home Folder\Document fonts\impact_1.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:206784
+FileModTime:1552967058
+WeightClass:400
+WidthClass:3
+AngleClass:0
+NameArray:0,Mac,4,Impact
+NameArray:0,Win,1,Impact
+%EndFont
+
